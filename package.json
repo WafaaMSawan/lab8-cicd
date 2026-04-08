@@ -13,5 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WafaaMSawan/lab8-cicd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WafaaMSawan/lab8-cicd/issues"
+  },
+  "homepage": "https://github.com/WafaaMSawan/lab8-cicd#readme"
 }
