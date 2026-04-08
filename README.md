@@ -1,2 +1,4 @@
 # lab8-cicd
-# test deploy
+# git add .
+# git commit -m "test pipeline run"
+# git push
